@@ -10,4 +10,4 @@ https://piecioshka.github.io/marquee/
 
 ## License
 
-[The MIT License](https://piecioshka.mit-license.org) @ 2012
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
